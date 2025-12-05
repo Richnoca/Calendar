@@ -45,6 +45,7 @@ Week,Mon,Tue,Wed,Thu,Fri,Sat,Sun
 - you will be prompted to enter your Garmin Connect login credentials (Email and Password)
     -Credentials will be saved locally to your garmin_config.json to enable staying logged in.
     -If you wish to erase your login information, delete garmin_config.json contents and save which will prompt you for credentials next time.
+- Successful login will immediately start the activity retrieval process and placed into their cooresponding Calendar dates.
 - Open the drop down to select a training plan you'd like to implement and click the 'Start Plan' button.
     -Plan will start on whatever day you currently have highlighted
 - The 'Clear Plan' button will remove the plan from your calendar if you would like to choose a different start date or different plan.
