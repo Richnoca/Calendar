@@ -25,9 +25,9 @@ File Structure for this repository in your folders should be:
 ├── run_evals.json                # Stores self-evaluations
 ├── Calendar.py                   # Main calendar application
 
-# All of your training plans should be saved in the plans folder as .CSV files in the same format as the ones in this repository
-# See subfolder plans with 2 example .CSV files 'halhigdon_intermediate_10k' and 'halhigdon_novice_marathon'.
-# If you're unsure how to generate your own .CSV file, find a plan you like and you can Copy and Paste it into ChatGPT and it will generate a downloadable file that you can save into your own plans folder.
+- All of your training plans should be saved in the plans folder as .CSV files in the same format as the ones in this repository
+- See subfolder plans with 2 example .CSV files 'halhigdon_intermediate_10k' and 'halhigdon_novice_marathon'.
+- If you're unsure how to generate your own .CSV file, find a plan you like and you can Copy and Paste it into ChatGPT and it will generate a           downloadable file that you can save into your own plans folder.
 
 Example of a 3 week snippet .CSV file format:
 Week,Mon,Tue,Wed,Thu,Fri,Sat,Sun
@@ -49,6 +49,9 @@ Week,Mon,Tue,Wed,Thu,Fri,Sat,Sun
     -Plan will start on whatever day you currently have highlighted
 - The 'Clear Plan' button will remove the plan from your calendar if you would like to choose a different start date or different plan.
 - On days that you have runs you can type in the 'Self-Evaluation' box and click Save Self-Evaluation so you can go back and look at how you felt    during those runs.
-    -If you wish to clear a previously saved Self-Evaluation, go into you local run_evals.json and you can edit any evaluation there and they are       listed by date.
+    -If you wish to clear a previously saved Self-Evaluation, go into you local run_evals.json and you can edit any evaluation there and they are            listed by date.
+
+
+
 
   <img width="977" height="784" alt="image" src="https://github.com/user-attachments/assets/9243806a-af93-40b8-a0c6-a60ac0849622" />
